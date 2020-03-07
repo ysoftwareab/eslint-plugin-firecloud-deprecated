@@ -1,8 +1,8 @@
 # eslint-plugin-firecloud
 
-A proxy module to rules in [`eslint-config-firecloud`](https://github.com/tobiipro/eslint-config-firecloud).
+A proxy module to rules in [`eslint-config-firecloud`](https://github.com/rokmoln/eslint-config-firecloud).
 
-This is a peer dependency of [`eslint-config-firecloud`](https://github.com/tobiipro/eslint-config-firecloud) that
+This is a peer dependency of [`eslint-config-firecloud`](https://github.com/rokmoln/eslint-config-firecloud) that
 points back to `eslint-config-firecloud/rules` module for a list of rules to be exported by this plugin.
 
 
